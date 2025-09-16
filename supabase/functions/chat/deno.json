@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "lib": ["deno.window"],
+    "strict": true
+  },
+  "importMap": {
+    "imports": {
+      "@supabase/supabase-js": "https://esm.sh/@supabase/supabase-js@2.45.4"
+    }
+  },
+  "tasks": {
+    "secrets": "supabase secrets list",
+    "dev": "supabase functions serve chat --no-verify-jwt",
+    "deploy": "supabase functions deploy chat"
+  }
+}

@@ -22,6 +22,7 @@ export default {
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
+          glow: "hsl(var(--primary-glow))",
         },
         secondary: {
           DEFAULT: "hsl(var(--secondary))",
@@ -46,6 +47,13 @@ export default {
         card: {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
+        },
+        stihl: {
+          orange: "hsl(var(--stihl-orange))",
+          "orange-light": "hsl(var(--stihl-orange-light))",
+          "orange-dark": "hsl(var(--stihl-orange-dark))",
+          gray: "hsl(var(--stihl-gray))",
+          "gray-light": "hsl(var(--stihl-gray-light))",
         },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
