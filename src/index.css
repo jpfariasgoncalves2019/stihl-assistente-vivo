@@ -88,14 +88,10 @@
     --border: 0 0% 20%;
     --input: 0 0% 20%;
     --ring: 22 100% 55%;
-    --sidebar-background: 240 5.9% 10%;
-    --sidebar-foreground: 240 4.8% 95.9%;
-    --sidebar-primary: 224.3 76.3% 48%;
-    --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-accent: 240 3.7% 15.9%;
-    --sidebar-accent-foreground: 240 4.8% 95.9%;
-    --sidebar-border: 240 3.7% 15.9%;
-    --sidebar-ring: 217.2 91.2% 59.8%;
+
+    /* Dark mode shadows */
+    --shadow-stihl: 0 4px 20px hsl(22 100% 50% / 0.4);
+    --shadow-soft: 0 2px 10px hsl(0 0% 0% / 0.3);
   }
 }
 
@@ -105,6 +101,125 @@
   }
 
   body {
-    @apply bg-background text-foreground;
+    @apply bg-background text-foreground font-sans antialiased;
+  }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-muted;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-primary rounded-full;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-primary-glow;
+  }
+}
+
+@layer components {
+  /* STIHL Custom Utilities */
+  .shadow-stihl {
+    box-shadow: var(--shadow-stihl);
+  }
+
+  .shadow-soft {
+    box-shadow: var(--shadow-soft);
+  }
+
+  .gradient-stihl {
+    background: var(--gradient-stihl);
+  }
+
+  .gradient-subtle {
+    background: var(--gradient-subtle);
+  }
+
+  .transition-smooth {
+    transition: var(--transition-smooth);
+  }
+
+  /* Animation utilities */
+  .animate-pulse-slow {
+    animation: pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  }
+
+  .animate-fade-in {
+    animation: fadeIn 0.5s ease-in-out;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  /* Chat-specific styles */
+  .chat-message {
+    @apply animate-fade-in;
+  }
+
+  .typing-indicator {
+    @apply flex items-center gap-1;
+  }
+
+  .typing-dot {
+    @apply w-2 h-2 bg-primary rounded-full animate-bounce;
+  }
+
+  .typing-dot:nth-child(1) {
+    animation-delay: 0ms;
+  }
+
+  .typing-dot:nth-child(2) {
+    animation-delay: 150ms;
+  }
+
+  .typing-dot:nth-child(3) {
+    animation-delay: 300ms;
+  }
+}
+
+@layer utilities {
+  /* Text utilities with STIHL colors */
+  .text-stihl-orange {
+    color: hsl(var(--stihl-orange));
+  }
+
+  .text-stihl-gray {
+    color: hsl(var(--stihl-gray));
+  }
+
+  /* Background utilities */
+  .bg-stihl-orange {
+    background-color: hsl(var(--stihl-orange));
+  }
+
+  .bg-stihl-gray-light {
+    background-color: hsl(var(--stihl-gray-light));
+  }
+
+  /* Focus styles for accessibility */
+  .focus-stihl {
+    @apply focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2;
+  }
+
+  /* Button hover effects */
+  .hover-lift {
+    @apply transition-all duration-200 hover:scale-105 hover:shadow-lg;
+  }
+
+  .hover-glow {
+    @apply transition-all duration-300 hover:shadow-stihl;
   }
 }
