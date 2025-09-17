@@ -14,6 +14,33 @@ export type Database = {
   }
   public: {
     Tables: {
+      assistant_prompts: {
+        Row: {
+          created_at: string | null
+          examples: Json | null
+          id: string
+          instructions: string
+          name: string
+          persona: string
+        }
+        Insert: {
+          created_at?: string | null
+          examples?: Json | null
+          id?: string
+          instructions: string
+          name: string
+          persona: string
+        }
+        Update: {
+          created_at?: string | null
+          examples?: Json | null
+          id?: string
+          instructions?: string
+          name?: string
+          persona?: string
+        }
+        Relationships: []
+      }
       attendant_prompts: {
         Row: {
           content: string
@@ -46,62 +73,175 @@ export type Database = {
       }
       conversation_logs: {
         Row: {
-          catalog_evidence: Json | null
-          channel: string | null
+          answer_preview: string | null
+          channel: string
           created_at: string | null
-          error: string | null
           id: number
-          model_detected: string | null
-          part_query: string | null
-          prompt_id: number | null
-          prompt_version: string | null
-          response_text: string | null
-          tech_evidence: Json | null
-          took_ms: number | null
-          user_message: string | null
-          user_ref_hash: string | null
+          resolved_model_code: string | null
+          resolved_part_code: string | null
+          user_message: string
         }
         Insert: {
-          catalog_evidence?: Json | null
-          channel?: string | null
+          answer_preview?: string | null
+          channel: string
           created_at?: string | null
-          error?: string | null
           id?: number
-          model_detected?: string | null
-          part_query?: string | null
-          prompt_id?: number | null
-          prompt_version?: string | null
-          response_text?: string | null
-          tech_evidence?: Json | null
-          took_ms?: number | null
-          user_message?: string | null
-          user_ref_hash?: string | null
+          resolved_model_code?: string | null
+          resolved_part_code?: string | null
+          user_message: string
         }
         Update: {
-          catalog_evidence?: Json | null
-          channel?: string | null
+          answer_preview?: string | null
+          channel?: string
           created_at?: string | null
-          error?: string | null
           id?: number
-          model_detected?: string | null
-          part_query?: string | null
-          prompt_id?: number | null
-          prompt_version?: string | null
-          response_text?: string | null
-          tech_evidence?: Json | null
-          took_ms?: number | null
-          user_message?: string | null
-          user_ref_hash?: string | null
+          resolved_model_code?: string | null
+          resolved_part_code?: string | null
+          user_message?: string
+        }
+        Relationships: []
+      }
+      equipment_models: {
+        Row: {
+          created_at: string | null
+          display_name: string | null
+          family: string
+          id: string
+          model_code: string
+          specs: Json | null
+        }
+        Insert: {
+          created_at?: string | null
+          display_name?: string | null
+          family: string
+          id?: string
+          model_code: string
+          specs?: Json | null
+        }
+        Update: {
+          created_at?: string | null
+          display_name?: string | null
+          family?: string
+          id?: string
+          model_code?: string
+          specs?: Json | null
+        }
+        Relationships: []
+      }
+      model_aliases: {
+        Row: {
+          alias: string
+          id: string
+          model_code: string
+        }
+        Insert: {
+          alias: string
+          id?: string
+          model_code: string
+        }
+        Update: {
+          alias?: string
+          id?: string
+          model_code?: string
+        }
+        Relationships: []
+      }
+      part_aliases: {
+        Row: {
+          alias: string
+          id: string
+          part_code: string
+        }
+        Insert: {
+          alias: string
+          id?: string
+          part_code: string
+        }
+        Update: {
+          alias?: string
+          id?: string
+          part_code?: string
+        }
+        Relationships: []
+      }
+      part_model_compat: {
+        Row: {
+          model_code: string
+          part_id: string
+        }
+        Insert: {
+          model_code: string
+          part_id: string
+        }
+        Update: {
+          model_code?: string
+          part_id?: string
         }
         Relationships: [
           {
-            foreignKeyName: "conversation_logs_prompt_id_fkey"
-            columns: ["prompt_id"]
+            foreignKeyName: "part_model_compat_part_id_fkey"
+            columns: ["part_id"]
             isOneToOne: false
-            referencedRelation: "attendant_prompts"
+            referencedRelation: "parts"
             referencedColumns: ["id"]
           },
         ]
+      }
+      part_prices: {
+        Row: {
+          currency: string
+          id: string
+          part_id: string
+          price: number
+          source: string | null
+          valid_from: string | null
+        }
+        Insert: {
+          currency?: string
+          id?: string
+          part_id: string
+          price: number
+          source?: string | null
+          valid_from?: string | null
+        }
+        Update: {
+          currency?: string
+          id?: string
+          part_id?: string
+          price?: number
+          source?: string | null
+          valid_from?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "part_prices_part_id_fkey"
+            columns: ["part_id"]
+            isOneToOne: false
+            referencedRelation: "parts"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      parts: {
+        Row: {
+          created_at: string | null
+          description: string
+          id: string
+          part_code: string
+        }
+        Insert: {
+          created_at?: string | null
+          description: string
+          id?: string
+          part_code: string
+        }
+        Update: {
+          created_at?: string | null
+          description?: string
+          id?: string
+          part_code?: string
+        }
+        Relationships: []
       }
     }
     Views: {
