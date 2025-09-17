@@ -1,0 +1,452 @@
+﻿col,código_material,preço_real,qtde_min,descrição,vazão_máxima_l_h,pressão_máxima_bar,pressão_de_trabalho_bar,potência_kw,tipo_de_motor,peso_kg,comprimento_da_mangueira_m,cabeçote_da_bomba
+,RE02-011-4506,819,1,"RE 80.0 X Lavadora de alta pressão, 127",450,100,70,1.5,Universal,7,5,Alumínio
+,RE02-011-4507,819,1,"RE 80.0 X Lavadora de alta pressão, 220",430,120,90,1.7,Universal,7,5,Alumínio
+RE 80,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,Vazão Máxima [l/h],Pressão máxima [bar],Pressão de trabalho [bar],Potência [kw],Tipo de motor,"Peso 
+[kg]",Comprimento da mangueira [m],Cabeçote da bomba
+,RE02-011-4513,929,1,"RE 80.0 Lavadora de alta pressão, 127 V",450,100,70,1.5,Universal,7.5,5,Alumínio
+,RE02-011-4514,929,1,"RE 80.0 Lavadora de alta pressão, 220 V",430,120,90,1.7,Universal,7.5,5,Alumínio
+RE 90.0,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,Vazão Máxima [l/h],Pressão máxima [bar],Pressão de trabalho [bar],Potência [kw],Tipo de motor,"Peso 
+[kg]",Comprimento da mangueira [m],Cabeçote da bomba
+,RE02-011-4519,1129,1,"RE 90.0 Lavadora de alta pressão, 127 V",450,100,72,1.5,Universal,8,6,Alumínio
+,RE02-011-4539,1129,1,"RE 90.0 Lavadora de alta pressão, 220 V",440,130,100,2.1,Universal,8,6,Alumínio
+RE 90 Plus,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,Vazão Máxima [l/h],Pressão máxima [bar],Pressão de trabalho [bar],Potência [kw],Tipo de motor,"Peso 
+[kg]",Comprimento da mangueira [m],Cabeçote da bomba
+,RE02-011-4525,1249,1,"RE 90.0 PLUS Lav. de alta pressão,127V",450,100,72,1.5,Universal,9,6,Alumínio
+,RE02-011-4528,1249,1,"RE 90.0 PLUS Lav. de alta pressão, 220V",440,130,100,2.1,Universal,9,6,Alumínio
+RE 100,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,Vazão Máxima [l/h],Pressão máxima [bar],Pressão de trabalho [bar],Potência [kw],Tipo de motor,"Peso 
+[kg]",Comprimento da mangueira [m],Cabeçote da bomba
+,4950-011-4504,1969,1,"RE 100 Lavadora de alta pressão, 127 V",440,130,95,1.6,Indução ,16.5,7,Alumínio
+,4950-011-4505,1969,1,"RE 100 Lavadora de alta pressão, 220 V",510,140,100,1.7,Indução ,16.5,7,Alumínio
+RE 110,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,Vazão Máxima [l/h],Pressão máxima [bar],Pressão de trabalho [bar],Potência [kw],Modelo,"Peso 
+[kg]",Comprimento da mangueira [m],
+,4950-011-4527,1649,1,"RE 110 Lavadora de alta pressão, 127 V",440,130,95,1.6,RE 110 - 127V,17.6,7,
+RE 110 PLUS,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,Vazão Máxima [l/h],Pressão máxima [bar],Pressão de trabalho [bar],Potência [kw],Modelo,"Peso 
+[kg]",Comprimento da mangueira [m],
+,4950-011-4538,2399,1,RE 110 PLUS 127 V Lavadora de alta,440/510,130/140,95/100,"1,6/1,7",RE 110 PLUS - 127V,17.95,8,
+,4950-011-4539,2399,1,RE 110 PLUS 220 V Lavadora de alta,,,,,RE 110 PLUS - 220V,,,
+RE 145,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,Vazão Máxima [l/h],Pressão máxima [bar],Pressão de trabalho [bar],Potência [kw],Modelo,"Peso 
+[kg]",Comprimento da mangueira [m],
+,4950-011-4591,2889,1,"RE 145.0 Lavadora de alta pressão, 127 V",440,130,95,1.6,RE 145 - 127 V,18.5,8,
+,4950-011-4592,2889,1,"RE 145.0 Lavadora de alta pressão, 220 V",580,160,110,2.3,RE 145 - 220V,19.7,8,
+RE 150,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,Vazão Máxima [l/h],Pressão máxima [bar],Pressão de trabalho [bar],Potência [kw],Modelo,"Peso 
+[kg]",Comprimento da mangueira [m],
+,RE01-011-4513,4199,1,RE 150.0 Lavadora de alta pressão,600,180,130,2.8,RE 150 - 220V,30,9,
+ACESSÓRIOS DE LAVADORAS,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,Observações,,,Modelos,,,
+,4950-500-1605,69.36,1,"Bico turbo Ø 1,04 mm",,Bico turbo branco,,,RE90/95/110 - 110V/220V,,,
+,4951-530-0006,63.59,1,Bico chato,,Bico leque azul,,,RE90 110V,,,
+,4951-530-0005,63.59,1,Bico chato,,Bico leque amarelo,,,RE90 220V,,,
+,4951-530-0007,55.38,1,Bico chato,,Bico leque turquesa,,,RE95 127V,,,
+,4951-530-0009,56.38,1,Bico chato,,Bico leque branco,,,RE95 220V,,,
+,4950-500-1607,69.36,1,"Bico turbo Ø 1,10 mm, azul",,Bico turbo azul,,,RE 110 - 110V/220V,,,
+,4930-530-0022,57.9,1,"Bico chato  Ø 1,28 mm, azul claro",,Bico leque azul,,,RE110,,,
+,4900-500-1630,161.1,1,Bico turbo verde,,Bico Turbo Verde,,,RE88/98/109-127V/220V,,,
+,4900-500-6322,71.76,1,Bico leque turquesa,,Bico Leque Turquesa,,,RE88-127V - RE109-127V/220V,,,
+,4900-500-6320,71.76,1,Bico leque amarelo,,Bico Leque Amarelo,,,RE88-220V - RE98-127V/220V,,,
+,4900-500-1698,86.9,1,Bico turbo turquesa,,Bico Turbo Turquesa,,,RE98-127V,,,
+,4900-500-6321,224.1,1,Bico leque verde,,Bico Leque Verde,,,RE108-127V,,,
+,4900-500-6325,152.9,1,Bico leque rosa,,Bico Leque Pink,,,RE108-220V,,,
+,4900-500-1677,327.19,1,Bico turbo,,Bico Turbo Cinza,,,RE143 - 220V,,,
+,4915-500-3824,518.47,1,Bico Leque Azul RE143 -220V,,Bico Leque Azul,,,RE143 - 220V - Leque,,,
+,RE01-500-1624,115.84,1,Bico Turbo 220V/60Hz,,,,,Substitui RE01-500-1620RE150,,,
+,4925-500-3811,224.1,1,Bico leque,,Bico Leque de jatear,,,RE230/232 - 220V,,,
+,4900-500-1641,413.1,1,Bico turbo W12 040,,Bico Turbo,,,RE230/232 - 220V,,,
+,4910-500-9600,197.1,1,Bico de espuma,,,,,RE90/110,,,
+,4910-500-9601,197.1,1,Bico de espuma,,,,,RE143/150,,,
+,4925-500-9600,219,1,Bico de espuma,,,,,Recipientes de 1 litro com jato regulávelRE230,,,
+,4910-500-0801,219.01,1,Mangueira de alta pressão DN06 7 m,,,,,RE80X/80/90.0/90Plus/90/95/110,,,
+,4910-500-1900,368.1,1,"Lança de jatear angular 1,08 m",,,,,RE80X/80/90.0/90Plus/90/95/110/143/150,,,
+,4910-500-0802,409,1,Mangueira de alta pressão DN06 9 m,,,,,RE80X/80/90.0/90Plus/90/95/110/143/150,,,
+,4910-500-0500,289,1,Mangueira de aspiração 3 m,,,,,RE88/98/90/95/109/110/143/150/330/232,,,
+,4910-500-1800,353.28,1,Dispositivo de jateamento com líquido,,,,,RE80X/80/90.0/90Plus/90/95/110/143/150,,,
+,4910-500-8000,278.99,1,Jogo de limpeza de tubos 15 m,,,,,RE88/90/95/98/109/110/143/150,,,
+,4910-500-3902,289.01,1,Lavadora superficial RA 90,,,,,RE80X/80/90.0/90Plus/90/95/110/143/150,,,
+,4910-500-3901,349,1,Lavadora superficial RA 110,,,,,RE80X/80/90.0/90Plus/90/95/110/143/150,,,
+,4925-500-5900,1163.76,1,Escova rotativa,,,,,RE230/RE232,,,
+,4910-500-5900,319.05,1,Escova rotativa,,,,,RE80X/80/90.0/90Plus/90/95/110/143/150,,,
+,4900-500-5401,186.25,1,Filtro de água,,,,,Todas as lavadoras,,,
+,4900-500-5405,263.27,1,Filtro de água,,,,,RE232,,,
+,4910-500-5400,70.18,1,Filtro de água,,,,,RE80X/80/90.0/90Plus/90/95/110,,,
+,4910-500-8600,375.2,1,Mangueira plana com carretel fixo,,Suporte para fixação nas lavadoras RE 109: 4900-501-2001 e RE 110: 4950-790-5400,,,RE80X/80/90.0/90Plus/90/95/110/143/150/232,,,
+,4900-500-8700,249.67,1,Mangueira plana 12 m,,,,,RE80X/80/90.0/90Plus/90/95/110/143/150/232,,,
+,4925-500-0841,1017.45,1,Mangueira de alta pressão DN06 20 m,,,,,RE230/RE232,,,
+,4910-500-0803,865.51,1,Mangueira de alta pressão DN06 20 m,,,,,RE 145 / 150,,,
+,4915-501-1000,33.5,1,"Protetor de mangueira 5,5 m D1/2"" PE",,,,,Todas as lavadoras,,,
+,4915-501-1001,51.45,1,"Protetor de mangueira 7,5 m D1/2"" PE",,,,,Todas as lavadoras,,,
+,4910-500-6000,182.84,1,Escova de limpeza,,,,,RE80X/80/90.0/90Plus/90/95/110/143/150,,,
+,4910-500-6100,201.84,1,Kit de limpeza de veículos,,,,,RE90/95/110,,,
+,4910-500-6101,229.01,1,Kit de limpeza de veículos,,,,,RE80X/80/90.0/90Plus/90/95/110/143/150,,,
+,7030-871-0000,29,6,Detergente Multiúso 1L,,"Produto concentrado e biodegradável, indicado para limpeza de superfícies laváveis em geral, como por exemplo: calçadas, fachadas e vidros.",,,Lavadoras,,,
+,4930-530-0025,63.11,1,Bico chato 127V/60Hz,,,,,RE110/145 - 127V,,,
+,4950-500-1610,85.36,1,"Bico turbo Ø 1,01 mm, rot, 127V/60Hz",,,,,RE110/RE145,,,
+,4950-500-0815,302.87,1,Mangueira de alta pressão,,,,,RE145,,,
+,RE02-500-0900,83.61,1,Extensão da lança,,,,,RE80X/RE80/RE90/RE90 Plus/RE110/145,,,
+,7030-871-0001,29,6,Detergente Automotivo 1 L,,"Produto concentrado e biodegradável, ideal para limpeza de superfícies de veículos automotores, como lataria e vidros.",,,Lavadoras,,,
+,4925-500-1800,980.61,1,Dispositivo de jateamento com líquido 05,,,,,RE 232,,,
+,4910-550-3500,1219,1,Lança telescópica,,,,,RE80X/RE150,,,
+,4910-550-3400,561.28,1,Escova rotativa,,,,,RE80X/RE150,,,
+,4910-500-3410,226.97,1,Escova rotativa / Escova de substituição,,,,,,,,
+ASPIRADOR DE PÓ E LÍQUIDOS,,,,,,,,,,,,
+SE 33,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. mínima,Descrição,Potência [W],Máximo Vácuo [mbar],Filtros,Volume pó no Filtro de papel [L],Volume de pó aspirado[L],,"Volume de
+ líquido aspirado [L]","Peso 
+[kg]"
+,SE01-012-4401,949,1,"SE 33 Aspirador, 127 V",1400,210,"Lavável
+Filtro Papel
+Filtro Espuma",3.4,12,,9,5.3
+,SE01-012-4402,949,1,"SE 33 Aspirador, 220 V",,,,,,,,5.4
+ACESSÓRIOS ASPIRADORES,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,Observações,,,,Modelos,,
+,SE01-500-9000,104.12,1,Saco do filtro,,Filtro de papel - embalagem com 5 unidades,,,,SE33,,
+,SE01-703-5900,138.14,1,Filtro,,Filtro Lavável,,,,SE33,,
+,SE01-502-6900,69.75,1,Filtro de líquidos,,,,,,SE33,,
+,4901-502-2400,56.9,1,Bico do tubo inclinado,,,,,,SE33,,
+,4901-502-2600,67.27,1,Bico da escova,,,,,,SE33,,
+,4901-502-2900,55.66,1,Bico Escova Ø 36 mm,,,,,,SE33,,
+,4901-500-2610,46.53,1,Bico de limpeza do radiador,,,,,,SE33,,
+,4901-502-2200,17.02,5,Bico para cantos 300 mm,,,,,,SE33,,
+PULVERIZADORES A COMBUSTÃO,,,,,,,,,,,,
+SR 420,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,Cilindrada [cm³],Potência     [kW/CV],Distância de Pulverização [m],,Volume recipiente [L],Velocidade do ar [m/s],Volume de   ar [m³/h],Peso [kg]
+,,,,,,,Horizontal,Vertical,,,,
+,4203-200-0011,2469,1,SR 420 Pulverizador,56.5,"2,6 / 3,5",12,11.5,13,101,750,11.1
+SR 430,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,Cilindrada [cm³],Potência     [kW/CV],Distância de Pulverização [m],,Volume recipiente [L],Velocidade do ar [m/s],Volume de   ar [m³/h],Peso [kg]
+,,,,,,,Horizontal,Vertical,,,,
+,4244-200-0000,3099,1,SR 430 Pulverizador,63.3,"2,9 / 3,9",14.5,13,14,90,920,12.2
+SR 450,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,Cilindrada [cm³],Potência     [kW/CV],Distância de Pulverização [m],,Volume recipiente [L],Velocidade do ar [m/s],Volume de   ar [m³/h],Peso [kg]
+,,,,,,,Horizontal,Vertical,,,,
+,4244-200-0001,3599,1,SR 450 Pulverizador,63.3,"2,9 / 3,9",14.5,13,14,90,920,12.8
+ACESSÓRIOS PULVERIZADOR,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,Observações,,,,Modelos,,
+,4203-007-1013,579.75,1,Jogo disp.pulveriz.(atomiz./polvilhada),,,,,,SR400/SR420,,
+,4203-007-1029,582.14,1,Jogo bomba de pressão (ULV),,"Com a bomba de pressão é possível uma ejecção uniforme do líquido de pulverização, independente da posição do pulverizador. Além disso, o líquido de pulverização é virado permanentemente o que evita uma separação da mistura. ",,,,SR400/420,,
+,4244-007-1004,535.08,1,Jogo bomba de pressão,,,,,,SR430/450,,
+,4203-007-1019,132.55,1,Jogo bico ULV,,,,,,SR400/420,,
+,4244-007-1022,34.89,1,Jogo bico ULV,,,,,,SR430/450,,
+PULVERIZADORES MANUAIS,,,,,,,,,,,,
+SG 11,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,Capacidade [L],,Pressão,,Modelo,,Peso [kg]
+,4255-019-4914,109,6,SG 11 Pulverizador Manual,,1.5,,3,,SG 11,,0.41
+SG 31,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,Capacidade [L],,Pressão,,Modelo,,Peso [kg]
+,4255-019-4932,379,1,SG 31 Pulverizador Manual,,5,,3,,SG 31,,1.3
+SG 20,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,Capacidade [L],,Pressão,,Modelo,,Peso [kg]
+,4247-019-4900,639,1,SG 20 Pulverizador Manual Costal,,18,,7,,SG 20,,5.2
+SG 71,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,Capacidade [L],,Pressão,,Modelo,,Peso [kg]
+,4255-019-4973,639,1,SG 71 Pulverizador Manual Costal,,18,,6,,SG 71,,4.8
+ACESSÓRIOS PULVERIZADOR,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,,Perfil do jato,Vazão (l/min),Pressão (bar),Material,Modelos,
+,4255-700-6302,44.38,1,"Bico Cônico Ajustável - para utilização com cone vazado ou completo, para variadas aplicações.",,,,0.4,2,Metálico,SG31/71,
+,4255-700-6303,23.47,1,"Bico Cônico Oco 2,5mm -  Bico especial com grande calibre, para fluxos elevados.",,,,2.6,2,Metálico,SG71,
+,4255-700-6304,142.43,1,Bico Cônico Cheio - Bico cônico com fluxo reduzido. Ideal para uma dosagem de precisão.,,,,0.31,2,Metálico,SG71,
+,4255-502-1702,20.51,1,Bico chato 80-02 - Para a aplicação em  plantações em grande escala,,,,0.65,2,Polímero,SG71,
+,4255-502-1700,54.71,1,"Bico chato 80-04 - Bico de jato plano com grande calibre, para aplicações planas. Especialmente adequado para aplicar herbicidas com gotas grandes.",,,,1.31,2,Metálico,SG71/71,
+,4255-502-1701,89.07,1,Bico chato 65-0025 - Bico de jato plano com calibre pequeno e fluxo reduzido para uma pulverização muito fina e direcionada.,,,,0.08,2,Metálico,SG71,
+,4247-502-1001,15.94,1,Bico chato 400 cc/min 80-01 - Para a aplicação em  plantações em grande escala 400 cc/min,,,,0.32,2,Polímero,SG20,
+,4255-500-8500,129.96,1,"Bico do garfo - Ideal para pulverizar superfícies
+maiores ou dois arbustos em simultâneo. Direção dos bicos ajustável individualmente. 
+*A vazão depende do bico a ser montado nesse suporte.",,,,*a vazão depende do bico a ser montado,2,Polimero,SG71,
+,4247-500-8500,77.4,1,"Bico do garfo - Ideal para pulverizar superfícies
+maiores ou dois arbustos em simultâneo. Direção dos bicos ajustável individualmente. 
+*A vazão depende do bico a ser montado nesse suporte.",,,,*a vazão depende do bico a ser montado,2,Polimero,SG20,
+,4255-710-9006,135.88,1,Cinturão,,,,,,,SG71,
+,4255-500-0301,40.5,1,Extensão da lança,,,,,,,SG71,
+,4255-007-1000,106.25,1,"Jogo de bicos:
+4255-502-1702-A Bico Chato 80-02
+4255-502-1000-A Bico Chato 80-15
+4255-502-6201-A Bico Cônico Oco HC015
+4255-502-6202-A Bico Cônico Oco HC02",,,"4255-502-1702
+4255-502-1000
+4255-502-6201
+4255-502-6202","0,65
+0,49
+0,49
+0,65",2,Polimero,"SG11/SG71
+SG20",
+,4247-007-1005,100.69,1,"Jogo de bicos:
+4247-502-1006-A Bico Chato 600 cc/min 80-015
+4247-502-1001-A Bico Chato 400 cc/min 80-01
+4247-502-1007-A Bico Cônico Oco 200 cc/min TVXK3
+4247-502-1008-A Bico Cônico Oco 600 cc/min HC015",,,"4247-502-1006
+4247-502-1001
+4247-502-1007
+4247-502-1008","0,32
+0,49
+0,49
+0,17",2,Polimero,"SG11/SG71
+SG20",
+,4247-500-0901,85.79,1,Lança de jatear reto,,,,,,,SG20,
+,4247-500-2100,187.17,1,Lança telescópica,,,,,,,SG20,
+,4247-510-4000,92.48,1,Manômetro,,,,,,,SG20,
+,4247-500-9101,166.17,1,Pistola com manômetro,,,,,,,SG20,
+,4247-500-7500,42.01,1,Suporte do bico,,,,,,,SG20,
+,4255-500-9702,479.35,1,Tubo de jato largo,,,,,,,SG71,
+,4255-500-7403,174.28,1,Válvula de regulagem 1 bar,,,,,,,SG71,
+,4247-500-7400,166.35,1,Válvula de pressão 1 bar,,,,,,,SG20,
+,4255-500-7404,174.28,1,"Válvula de regulagem 1,5 bar",,,,,,,SG71,
+,4247-500-7401,172.56,1,"Válvula de pressão 1,5 bar",,,,,,,SG20,
+,4247-500-7402,149.57,1,Válvula de regulagem 2 bar,,,,,,,SG20,
+CORTADOR DE PALMA,,,,,,,,,,,,
+FOICE/PROTEÇÃO P/ CORTADOR DE PALMA,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,,,,,Modelo,,
+,4248-702-7101,153.13,1,Foice,,,,,,PC70/75,,
+,4248-702-7400,257.69,1,Sacho,,,,,,PC70/75,,
+,4248-790-3900,52.26,1,Proteção para transporte da foice,,,,,,PC70/75,,
+,4248-790-3901,41.57,1,Proteção para transporte do sacho,,,,,,PC70/75,,
+CORTADORES DE PEDRA,,,,,,,,,,,,
+TS 420,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,Cilindrada (cm3),Potência,,Diametro do disco (mm),Profundidade máx. de corte (mm),,"Peso 
+(kg)"
+,,,,,,,kW,CV,,,,
+,4238-200-0020,5299,1,"TS 420 Cortador de pedra/ferro,350mm/14""",,66.7,3.2,4.4,350,125,,9.7
+,*Acompanha disco resinado para corte de perfil de aço,,,,,,,,,,,
+TS 800,,,,,,,,,,,,
+ ,Código Material,Preço Real,Qtde Mín.,Descrição,,Cilindrada (cm3),Potência,,Diametro do disco (mm),Profundidade máx. de corte (mm),,"Peso 
+(kg)"
+,,,,,,,kW,CV,,,,
+,4224-200-0024,7999,1,"TS 800 Cortador de pedra/ferro,400mm/16""",,98.5,5,6.8,400,145,,12.7
+,*Acompanha disco resinado para corte de alvenaria,,,,,,,,,,,
+FW 20 - CARRINHO DE TRANSPORTE COMPLETO,,,,,,,,,,,,
+,FW 20 - TS 420,,,,,,,,,,,
+ ,Código Material,Preço Real,Qtde Mín.,Inclui,,,,,,,,"Peso 
+(kg)"
+,4224-200-0038,4221.71,1,"4224-710-1403 FW 20 Carrinho de transporte
+4250-790-0702 Assento
+4224-007-1018 Jogo recipiente para água
+4224-007-1014 Jogo conexão rodas TS
+4205-007-1009 Jogo direção de corte",,,,,,,,31.6
+,FW 20 - TS 800,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Inclui,,,,,,,,"Peso 
+(kg)"
+,4224-200-0039,4221.71,1,"4224-710-1403 FW 20 Carrinho de transporte
+4250-790-0705 Assento
+4224-007-1018 Jogo recipiente para água
+4224-007-1014 Jogo conexão rodas TS
+4205-007-1009 Jogo direção de corte",,,,,,,,31.6
+ACESSÓRIOS para FW 20 - carrinho para transporte do TS,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Comentários,,,,,,Utilização,,"Peso 
+[kg]"
+,4224-710-1403,2719,1,FW 20 Carrinho de transporte (não acompanha Jogo direção de corte | Jogo recipiente para água | Jogo de assentamento e Jogo conexão rodas TS),,,,,,TS420/800,,24.5
+,4205-007-1009,392.34,1,"Guia direcional para o FW 20, que orienta a direção do corte durante a operação.",,,,,,TS420/760/800,,1.27
+,4224-007-1018,701.85,1,"Recipiente de água para o FW 20, armazena a água utilizada para a refrigeração do disco de corte.",,,,,,TS420/800,,2.4
+,4250-790-0702,1103.19,1,Assento,,,,,,TS420,,7.18
+,4224-790-0705,1103.19,1,"Jogo de assentamento TS 700, 800",,,,,,TS800,,3.8
+,4224-007-1014,250.17,1,Base com rodas para movimentar o TS 420 e/ou TS 800 sobre superficies planas sem necessidade do FW 20.,,,,,,TS420/800,,0.35
+,0000-670-6000,664.17,1,Recipiente de armazenamento de água utilizado para resfriamento com disco de corte em locais onde não há fontes de água. ,,,,,,TS420/800,,2.75
+,4864-690-0801,674.69,1,Dispositivo que limita a profundidade de corte do disco e com uma saida lataral para acoplamento de aspirador de pó.,,,,,,TS420/800,,0.54
+Discos de Corte diamantados para TS,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Comentários,,,,,,Utilização,,"Peso 
+[kg]"
+,0835-094-7013,1434.84,1,"Disco de corte D-BA90 Ø 350mm/14"" Diversas aplicações, como para o corte de concreto, tijolos e asfalto.",,,,,,TS 420,,2.141
+,0835-094-7014,2036.56,1,"Disco de corte BA 90 - 400mm. Diversas aplicações, como para o corte de concreto, tijolos e asfalto.",,,,,,TS 800,,2.75
+,0835-096-7005,1497.27,1,"Disco de corte D-SB90 Ø 350mm/14"" - 350mm. Corte de pedras e concreto armado.",,,,,,TS 420,,1.663
+,0835-096-7006,2125.12,1,Disco de corte SB 90 - 400mm. Corte de pedras e concreto armado.,,,,,,TS 800,,2.468
+,0835-090-7050,376.95,1,Disco de corte B 10 Ø 230mm - Corte de pedras e concreto armado.,,,,,,TSA 230,,0.63
+,0835-090-7052,596.72,1,Disco de Corte B 10 - 350mm. Corte de pedras e concreto armado.,,,,,, TS 420,,2.012
+,0835-090-7053,1006.24,1,Disco de corte B 10 - 400mm. Corte de pedras e concreto armado.,,,,,,TS 800,,2.896
+Discos de Corte resinados para TS,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Comentários,,,,,,Utilização,,"Peso 
+[kg]"
+,0835-012-7000,53.63,1,Disco de corte K-ME Ø 230mm. Corte de aço e perfis de metal de construção.,,,,,,TSA 230,,0.61
+,0835-010-7001,82.19,1,Disco de corte K-ME Ø 350mm. Corte de aço e perfis de metal de construção.,,,,,,TS 420,TS 420,0.61
+,0835-020-7001,82.19,1,Disco de corte K-BA Ø 350mm. Corte de tijolo e paredes.,,,,,,TS 420,TS 420,0.61
+,0835-020-7002,116.21,1,Disco de corte K-BA Ø 400mm. Corte de tijolo e paredes.,,,,,,TS 800,TS 800,0.61
+PERFURADORES,,,,,,,,,,,,
+BT 131,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,Motor,Cilindrada [cm3],Potência,,Peso [kg],Modelo,
+,,,,,,,,kW,CV,,,
+,4313-200-0045,4449,1,BT 131 Perfurador Solo - (S/ Broca),,4-MIX,36.3,1.4,1.9,10,BT131,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,,Comentário,,,,Modelo,
+,4404-680-1900,1030.54,1,Broca de aço perfur. de solo Ø 260mm x 660mm,,,Broca Plantio - Perfuração 260mm,,,,BT120/121/130/131,
+,4404-680-2012,1207.7,1,Broca de aço perfur. de solo Ø 120mm x 695mm,,,Broca Helicoidal - Perfuração 120mm,,,,BT120/121/130/131,
+,4404-680-2020,1306.71,1,Broca de aço perfur. de solo Ø 200mm x 720mm,,,Broca Helicoidal - Perfuração 200mm,,,,BT120/121/130/131,
+,4311-680-2350,368.9,1,Prolongamento da haste 450 mm,,,,,,,BT120/121/130/131,
+,4313-680-2300,314.39,1,Prolongamento da haste 250 mm,,,,,,,BT120/121/130/131,
+BT 45,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,,Cilindrada [cm3],Potência,,Peso [kg],Modelo,
+,,,,,,,,kW,CV,,,
+,4314-200-0022,3349,1,BT 45 Furadeira com broca Ø13x320mm,,,27.2,0.8,1.1,4.8,Furadeira,
+,4314-200-0023,3399,1,BT 45 Furadeira com broca Ø19x460mm,,,,,,,,
+,4314-200-0024,3449,1,BT 45 Furadeira com broca Ø25x460mm,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,,Comentário,,,,Modelo,
+,4314-007-1004,511.3,1,Jogo Mandril de brocas,,,,,,,BT 45,
+,4314-007-1000,337.36,1,Jogo Mandril de brocas,,,,,,,BT 45,
+,4314-682-5013,149.05,1,Broca para madeira de aço Ø 13x320 mm,,,,,,,BT45,
+,4314-682-5019,190.17,1,Broca para madeira de aço Ø 19x460 mm,,,,,,,BT45,
+,4314-682-5025,253.99,1,Broca para madeira de aço Ø 25x460 mm,,,,,,,BT45,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,,Cilindrada [cm3],Potência,,Peso [kg],Modelo,
+,,,,,,,,kW,CV,,,
+,4314-200-0018,3779,1,"BT 45 Furadeira com Broca de Plantio 3""",,,27.2,0.8,1.1,4.8,Perfurador de solo,
+,4314-200-0019,3799,1,"BT 45 Furadeira com Broca de Plantio 4""",,,27.2,0.8,1.1,4.8,BT 45,
+,4314-200-0020,3849.01,1,"BT 45 Furadeira com Broca de Plantio 5""",,,27.2,0.8,1.1,4.8,BT 45,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,,Comentário,,,,Modelo,
+,4314-680-1903,547.48,1,"Broca perfuradora de solo para plantio 3""",,,"Comprimento da broca 59,5 cm",,,,BT 45,
+,4314-680-1904,567.64,1,"Broca perfuradora de solo para plantio 4""",,,"Comprimento da broca 59,5 cm",,,,BT 45,
+,4314-680-1905,590.31,1,"Broca perfuradora de solo para plantio 5""",,,"Comprimento da broca 59,5 cm",,,,BT 45,
+,4314-007-1001,322.06,1,Kit para perfurador de plantio,,,,,,,BT 45,
+MOTORES ESTACIONÁRIOS ,,,,,,,,,,,,
+EHC 705 S,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,,Cilindrada(cm³),,Óleo do Motor [L],,Tanque de Combustível [L],Potência [hp]
+,VB07-011-1800,1599,1,EHC 705.0 S (BR) Motor com acoplamento,,,252,,0.6,,4,6
+EHC 605 S,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,,Cilindrada(cm³),,Óleo do Motor [L],,Tanque de Combustível [L],Potência [hp]
+,VB06-011-1800,1399,1,EHC 605.0 S (BR) Motor com acoplamento,,,212,,0.6,,3.6,6
+MOTOCULTIVADORES ,,,,,,,,,,,,
+MH 610.0,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,,Largura Máxima de Trabalho (cm),Cilindrada (cm3),Potência (kW / HP),,"Peso 
+[kg]",Pneus (Polegadas)
+,6250-011-3930,3999,1,MH 610.0 (BR) Motocultivador,,,80,212,"4,4 / 6,0",,61,"6"""
+MH 710.0,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,,Largura Máxima de Trabalho (cm),Cilindrada (cm3),Potência (kW / HP),,"Peso 
+[kg]",Pneus (Polegadas)
+,6251-011-3930,5799,1,MH 710.0 (BR) Motocultivador,,,100,252,"5,2 / 7,0",,101,"8"""
+Acessórios Motocultivadores,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,,Modelo,,,,,
+,6906-740-1401,1133.04,1,Roda ART 012.0,,,MH610,,,,,
+,6906-710-0922,1432.23,1,Kit rodas de ferro  AMR 060.0,,,MH610,,,,,
+,6906-710-1142,711.67,1,Sulcador AHK 800.0,,,MH710,,,,,
+,6906-710-0924,2088.45,1,Kit rodas de ferro AMR 070.0,,,MH710,,,,,
+MOTOBOMBAS,,,,,,,,,,,,
+WP 300,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,"Entrada e Saída
+[pol]","Vazão Máxima 
+[m³/h - l/min]",Altura máxima para bombeamento [m] ,Altura máxima de sucção [m] ,"Potência
+[Hp / kW]",Motor,"Peso
+[kg]"
+,VB03-011-2007,1999,1,WP 300.0 Bomba de água,,2,37 / 616,33,7," 6 / 4,4",4 tempos,26
+WP 600,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,"Entrada e Saída
+[pol]","Vazão Máxima 
+[m³/h - l/min]",Altura máxima para bombeamento [m] ,Altura máxima de sucção [m] ,"Potência
+[Hp / kW]",Motor,"Peso
+[kg]"
+,VB04-011-2007,2499,1,WP 600.0 Bomba de água,,3,63  / 1.050,31,7," 6 / 4,4",4 tempos,29
+WP 900,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,"Entrada e Saída
+[pol]","Vazão Máxima 
+[m³/h - l/min]",Altura máxima para bombeamento [m] ,Altura máxima de sucção [m] ,"Potência
+[Hp / kW]",Motor,"Peso
+[kg]"
+,VB05-011-2007,3499,1,WP 900.0 Bomba de água,,4,94 / 1.567,34,6.5,"7 / 5,2",4 tempos,38
+PODADORES A COMBUSTÃO,,,,,,,,,,,,
+HS 45,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,,Cilindrada [cm3],Potência,,Peso [kg],Comprimento da lâmina [mm],
+,,,,,,,,kW,CV,,,
+,4228-200-0007,1399,1,"HS 45 Podador,450mm/18""",,,27.2,0.75,1,4.7,450,
+HS 82 R,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,,Cilindrada [cm3],Potência,,Peso [kg],Comprimento da lâmina [mm],
+,,,,,,,,kW,CV,,,
+,4237-200-0018,3879,1,"HS 82 R Podador,600mm/24""",,,22.7,0.7,1,5.3,600,
+PODADORES ELETRICOS,,,,,,,,,,,,
+HSE 52,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,,"Tensão 
+[V]","Potência
+[W]",Comprimento da lâmina [mm],,,Peso [kg]
+,4818-011-3533,869,2,"HSE 52 Podador elétrico, 127V, 500mm/20""",,,127,460,500,,,3.1
+,4818-011-3534,869,2,"HSE 52 Podador elétrico, 220V, 500mm/20""",,,220,,,,,
+CONJUNTO DE CORTE PODADORES HS,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,,Comentário,,,,Modelo,
+,4237-710-6053,617.33,1,"Lâmina 600 mm / 24"" RD",,,,,,,HS81R,
+,4228-710-6050,299.1,1,"Lâmina 450 mm / 18""",,,,,,,HS45,
+,4818-710-5901,406.78,1,Jogo barras de corte 500 mm,,,,,,,HSE 52,
+,4818-710-6051,325.42,1,Lâmina 500 mm,,,,,,,HSE 52,
+,4230-710-6053,358.92,1,"Lâmina 500 mm / 20""",,,,,,,HL 135 Impl.,
+,4230-710-5900,448.65,1,"Jogo barras de corte 500 mm / 20""",,,,,,,HL 135 Impl.,
+,4243-710-6003,406.78,1,"Lâmina 500 mm / 20""",,,,,,,HL 145 impl.,
+MOTOPODAS,,,,,,,,,,,,
+HT 135,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,Motor,Cilindrada [cm3],Potência,,Peso [kg],Comprimento do eixo [cm],
+,,,,,,,,kW,CV,,,
+,4182-200-0197,4299,1,"HT 135 Moto-poda,30cm/12"",61PMM3, passo da corrente: 3/8""",,4-MIX,36.3,1.4,1.9,7.9,270-390,
+HT 75,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,Motor,Cilindrada [cm3],Potência,,Peso [kg],Comprimento do eixo [cm],
+,,,,,,,,kW,CV,,,
+,4138-200-0053,3619,1,"HT 75 Motopoda,30cm/12"", 3/8""P P  61PMM3",,2 tempos,25.4,0.95,1.3,8,270-390,
+ACESSÓRIOS MOTOPODA,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,,Comentário,,,,Modelo,
+,0000-790-4400,1227.44,1,Apoio dorsal RTS,,,,,,,HT75/131,
+,4138-640-0201,619,1,Engrenagem angular 30º,,,Encaixe redondo,,,,HT75/131,
+,4182-640-0200,649,1,Engrenagem angular 30º,,,Encaixe quadrado,,,,HT75/131,
+SOPRADORES A COMBUSTÃO,,,,,,,,,,,,
+BG 50,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,Cilindrada [cm³],Potência,,Velocidade do ar [m/s],,Volume de   ar [m³/h],Peso [kg]
+,,,,,,,kW,CV,,,,
+,4229-200-0004,1309,2,BG 50 Soprador,,27.2,0.7,1,60,,700,3.6
+BG 56,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,Cilindrada [cm³],Potência,,Velocidade do ar [m/s],,Volume de   ar [m³/h],Peso [kg]
+,,,,,,,kW,CV,,,,
+,4241-200-0016,1629,1,BG 56 Soprador,,27.2,0.7,1,64,,730,4.1
+SH 56,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,Cilindrada [cm³],Potência,,Velocidade do ar [m/s],,Volume de   ar [m³/h],Peso [kg]
+,,,,,,,kW,CV,,,,
+,4241-200-0015,1979,1,SH 56 Aspirador triturador,,27.2,0.7,1,64,,710,5.2
+BG 86,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,Cilindrada [cm³],Potência,,Velocidade do ar [m/s],,Volume de   ar [m³/h],Peso [kg]
+,,,,,,,kW,CV,,,,
+,4241-200-0017,1939,1,BG 86 C-E Soprador,,27.2,0.8,1.1,85,,810,4.4
+JOGO DE TUBO PARA LIMPEZA DE CALHAS,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,,Comentário,,,,Modelo,
+,4241-007-1003,304.49,1,Jogo Tubos para limpeza de calhas,,,,,,,BG56 / SH56 / BG86 / BGE71,
+KIT ASPIRAÇÃO SOPRADORES,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,,Comentário,,,,Modelo,
+,4241-700-2200,573.31,1,Disp. de sucção,,,,,,,BG56/86/SH56,
+BR 420,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,Cilindrada [cm³],Potência,,Velocidade do ar [m/s],,Volume de   ar [m³/h],Peso [kg]
+,,,,,,,kW,CV,,,,
+,4203-200-0012,2199,1,BR 420 Soprador costal,,56.5,2.6,3.5,78,,1260,9.1
+BR 430,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,Cilindrada [cm³],Potência,,Velocidade do ar [m/s],,Volume de   ar [m³/h],Peso [kg]
+,,,,,,,kW,CV,,,,
+,4244-200-0003,2789,1,BR 430 Soprador costal,,63.3,2.9,3.9,82,,1300,10.2
+BR 600,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,Cilindrada [cm³],Potência,,Velocidade do ar [m/s],,Volume de   ar [m³/h],Peso [kg]
+,,,,,,,kW,CV,,,,
+,4282-200-0026,3499,1,BR 600 magnum Soprador costal - Motor 4-Mix,,64.8,2.8,4,90,,1720,10.1
+BR 800,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,Cilindrada [cm³],Potência,,Velocidade do ar [m/s],,Volume de   ar [m³/h],Peso [kg]
+,,,,,,,kW,CV,,,,
+,4283-200-0000,4499,1,BR 800 Soprador costal - Motor 4-Mix,,79.9,3.2,4.35,97,,2025,10.6
+ACESSÓRIOS SOPRADORES COSTAIS,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,,Comentário,,,,Modelo,
+,4282-790-1700,233.88,1,Tubo do punho,,,Cabo de empunhadura dupla para sopradores costais,,,,BR430/450/600/800,
+,4203-708-9700,173.99,1,Saco coletor,,,,,,,BR420,
+SOPRADORES ELÉTRICOS,,,,,,,,,,,,
+BGE 71,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,,Potência [W],Velocidade do ar [m/s],,Vazão de ar para sopro [m³/h],,Vazão de ar pra aspiração [m³/h],Peso [kg]
+,4811-011-1505,699,1,BGE 71 Soprador elétrico 120V,,1,66,,670,,580,3
+,4811-011-1506,699,1,BGE 71 Soprador elétrico 220V,,,,,,,,
+ACESSÓRIOS SOPRADORES ELÉTRICOS,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde Mín.,Descrição,,,Comentário,,,,Modelo,
+,4811-700-2201,573.31,1,Disp. de sucção,,,,,,, BGE71,
+GERADORES,,,,,,,,,,,,
+GR 40,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,Voltagem,Autonomia c/ 50% da carga,Tensão Frequência ,Potência nominal,Potência máxima,Volume do tanque,,Peso
+,GB06-011-7401,3459,1,"GR 40.0 Gerador, 110/220V",110/220V,"10,9 horas","220 V / 60 Hz
+Monofásico e 110 V / 60 Hz
+Monofásico","2,5 kW/ 1,25 Kw","2,8 kW / 1,4 Kw",15 L / ,,38
+GR 60,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,Voltagem,Autonomia c/ 50% da carga,Tensão Frequência ,Potência nominal,Potência máxima,Volume do tanque,,Peso kg
+,GB07-011-7401,6299,1,"GR 60.0 Gerador, 127/220V",127/220V,"10,7 horas",220 V / 60Hz Trifásico  e 127 V / 60 Hz Monofásico,"5,0 kW / 4,4 Kw","5,5 kW / 4,9 kW",25 L ,,72.5
+,GB07-011-7402,6299,1,"GR 60.0 Gerador, 220/380V",220/380V,,"380 V / 60 Hz
+Trifásico e 220 V / 60 Hz
+Monofásico",,"5,5 kW / 4,8 kW",,,
+GR 80,,,,,,,,,,,,
+,Código Material,Preço Real,Qtde. Min.,Descrição,Voltagem,Autonomia c/ 50% da carga,Tensão Frequência ,Potência nominal,Potência máxima,Volume do tanque,,Peso
+,GB08-200-0000,7659,1,GR 80.0 127/220V Gerador,127/220V,"8,2 horas","220 V / 60 Hz
+Trifásico e 127 V / 60 Hz
+Monofásico","7,3 kW / 6,0 Kw","8,0 kW / 6,6 kW",25 L ,,91
+,GB08-200-0001,7659,1,GR 80.0 220/380V Gerador,220/380V,,"380 V / 60 Hz
+Trifásico e 220 V / 60 Hz
+Monofásico","7,3 kW / 5,9 kW","8,0 kW / 6,5 kW",,,

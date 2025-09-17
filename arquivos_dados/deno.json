@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "dev:chat": "supabase functions serve --env-file=./.env.local --no-verify-jwt chat",
+    "dev:ingest": "supabase functions serve --env-file=./.env.local --no-verify-jwt ingest"
+  },
+  "imports": {
+    "@/utils": "./functions/chat/sanitizers.ts"
+  }
+}

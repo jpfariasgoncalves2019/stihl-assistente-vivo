@@ -56,6 +56,8 @@ Execute o script SQL completo no SQL Editor do Supabase:
 sql/supabase_setup_consolidated_v3.sql
 ```
 
+> 📋 **Para setup detalhado do banco:** Consulte [DATABASE_SETUP.md](./DATABASE_SETUP.md) para instruções completas de configuração, migrações e troubleshooting.
+
 ### 3. Configuração de Secrets
 
 ```bash
@@ -369,3 +371,8 @@ Projeto proprietário STIHL. Uso interno apenas.
 - [Documentação Edge Functions](https://supabase.com/docs/guides/functions)  
 - [OpenAI API Reference](https://platform.openai.com/docs/api-reference)
 - [Supabase CLI](https://supabase.com/docs/reference/cli)
+
+**📚 Documentação do Projeto:**
+- [DATABASE_SETUP.md](./DATABASE_SETUP.md) - Setup detalhado do banco de dados
+- [telegram_setup_guide.md](./telegram_setup_guide.md) - Guia de configuração do bot Telegram
+- [setup_instructions.md](./setup_instructions.md) - Instruções gerais de instalação

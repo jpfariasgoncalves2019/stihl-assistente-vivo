@@ -1,0 +1,88 @@
+﻿col,código_material,preço_real,col,cilindrada_cm³,pot,col,sabre,corrente,col,col,capacidade_do_tanque_de_combustível_l,capacidade_do_tanque_de_óleo_l,peso_kg
+,,,,,kW,CV,,Modelo,Passo,Espessura (mm),,,
+,1148-200-0249,1199,"MS 162 Motosserra,61PMM3",30.1,1.3,1.8,30, Picco Micro Mini,0.375,1.1,0.396,0.28,4.5
+MS 172,,,,,,,,,,,,,
+,Código Material,Preço Real,Descrição,Cilindrada [cm³],Pot.,,Sabre,Corrente,,,Capacidade do tanque de combustível (L),Capacidade do tanque de óleo (L),"Peso 
+[kg]"
+,,,,,kW,CV,,Modelo,Passo,Espessura (mm),,,
+,1148-200-0244,1399,"MS 172 Motosserra,35cm/14"",61PMM3",31.8,1.5,2,35,Picco Micro Mini,3/8,1.1,0.396,0.28,4.5
+MS 172 C-BE,,,,,,,,,,,,,
+,Código Material,Preço Real,Descrição,Cilindrada [cm³],Pot.,,Sabre,Corrente,,,Capacidade do tanque de combustível (L),Capacidade do tanque de óleo (L),"Peso 
+[kg]"
+,,,,,kW,CV,,Modelo,Passo,Espessura (mm),,,
+,1148-200-0245,1498.99,"MS 172 C-BE Motosserra,35cm/14"",61PMM3",31.8,1.5,2,35,Picco Micro Mini,3/8,1.1,0.396,0.28,4.8
+MS 182,,,,,,,,,,,,,
+,Código Material,Preço Real,Descrição,Cilindrada [cm³],Pot.,,Sabre,Corrente,,,Capacidade do tanque de combustível (L),Capacidade do tanque de óleo (L),"Peso 
+[kg]"
+,,,,,kW,CV,,Modelo,Passo,Espessura (mm),,,
+,1148-200-0246,1599,"MS 182 Motosserra,40cm/16"",63PM3",35.8,1.6,2.2,40,Picco Micro Corrente,0.375,1.3,0.396,0.28,4.6
+MS 194 T,,,,,,,,,,,,,
+,Código Material,Preço Real,Descrição,Cilindrada [cm³],Pot.,,Sabre,Corrente,,,Capacidade do tanque de combustível (L),Capacidade do tanque de óleo (L),"Peso 
+[kg]"
+,,,,,kW,CV,,Modelo,Passo,Espessura (mm),,,
+,1137-200-0338,2499,"MS 194 T 3/8""P P Motosserra,30cm/12""",31.8,1.4,1.9,30R,Picco Micro Mini,3/8,1.1,0.27,0.22,3.3
+MS 212,,,,,,,,,,,,,
+,Código Material,Preço Real,Descrição,Cilindrada [cm³],Pot.,,Sabre,Corrente,,,Capacidade do tanque de combustível (L),Capacidade do tanque de óleo (L),"Peso 
+[kg]"
+,,,,,kW,CV,,Modelo,Passo,Espessura (mm),,,
+,1148-200-0247,1799,"MS 212 Motosserra,40cm/16"",63PM3",38.6,1.8,2.4,40,Picco Micro Corrente,0.375,1.3,0.396,0.28,4.6
+,1148-200-0248,1819,"MS 212 Motosserra,45cm/18"",63PM3",,,,45,,,,,,
+MS 250,,,,,,,,,,,,,
+,Código Material,Preço Real,Descrição,Cilindrada [cm³],Pot.,,Sabre,Corrente,,,Capacidade do tanque de combustível (L),Capacidade do tanque de óleo (L),"Peso 
+[kg]"
+,,,,,kW,CV,,Modelo,Passo,Espessura (mm),,,
+,1123-200-0864,2199,"MS 250 3/8""P P Motosserra,35cm/14"",63PMC",45.4,2.3,3.1,  35 R,Picco Micro,3/8,1.3,0.47,0.2,4.6
+,1123-200-0865,2239,"MS 250 3/8""P P Motosserra,40cm/16"",63PMC",,,,  40 R,Picco Micro,,,,,
+MS 260,,,,,,,,,,,,,
+,Código Material,Preço Real,Descrição,Cilindrada [cm³],Pot.,,Sabre,Corrente,,,Capacidade do tanque de combustível (L),Capacidade do tanque de óleo (L),"Peso 
+[kg]"
+,,,,,kW,CV,,Modelo,Passo,Espessura (mm),,,
+,1121-200-0407,2999,"MS 260 Motosserra,32cm/13"",26RS",50.2,2.6,3.5,  32 R,Rapid Super ,0.325,1.6,0.46,0.29,4.9
+,1121-200-0429,3029,"MS 260 Motosserra,40cm/16"",26RS",,,,  40 R,,,,,,
+MS 363,,,,,,,,,,,,,
+,Código Material,Preço Real,Descrição,Cilindrada [cm³],Pot.,,Sabre,Corrente,,,Capacidade do tanque de combustível (ml),Capacidade do tanque de óleo (ml),"Peso 
+[kg]"
+,,,,,kW,CV,,Modelo,Passo,Espessura (mm),,,
+,MB01-200-0059,3999,"MS 363.0 Motosserra,40cm/16"",36RS",62.6,3.5,4.7,40 S,Rapid Super,0.375,1.6,634,311,5.5
+,MB01-200-0060,4119,"MS 363.0 Motosserra,50cm/20"",36RS",,,,50 S,,,,,,
+,MB01-200-0061,3939,"MS 363.0 Motosserra,40cm/16"",36RS",,,,40 R,,,,,,
+,MB01-200-0062,3979,"MS 363.0 Motosserra,50cm/20"",36RS",,,,50 R,,,,,,
+MS 382,,,,,,,,,,,,,
+,Código Material,Preço Real,Descrição,Cilindrada [cm³],Pot.,,Sabre,Corrente,,,Capacidade do tanque de combustível (L),Capacidade do tanque de óleo (L),"Peso 
+[kg]"
+,,,,,kW,CV,,Modelo,Passo,Espessura (mm),,,
+,1119-200-0336,4299,"MS 382 3/8"" R Motosserra,33cm/13"",36RS",72.2,3.9,5.3,33 D,Rapid Super ,3/8,1.6,0.68,0.36,6.2
+,1119-200-0338,4389,"MS 382 3/8"" R Motosserra,40cm/16"",36RS",,,,40 D,,,,,,
+,1119-200-0337,4439,"MS 382 3/8"" R Motosserra,50cm/20"",36RS",,,,50 D,,,,,,
+,1119-200-0334,4399,"MS 382 3/8"" R Motosserra,40cm/16"",36RS",,,,40 RS,,,,,,
+,1119-200-0340,4449,"MS 382 3/8"" R Motosserra,50cm/20"",36RS",,,,50 RS,,,,,,
+,1119-200-0333,4319,"MS 382 3/8"" R Motosserra,40cm/16"",36RS",,,,40 R,,,,,,
+,1119-200-0339,4369,"MS 382 3/8"" R Motosserra,50cm/20"",36RS",,,,50 R,,,,,,
+MS 462,,,,,,,,,,,,,
+,Código Material,Preço Real,Descrição,Cilindrada [cm³],Pot.,,Sabre,Corrente,,,Capacidade do tanque de combustível (L),Capacidade do tanque de óleo (L),"Peso 
+[kg]"
+,,,,,kW,CV,,Modelo,Passo,Espessura (mm),,,
+,1142-200-0261,4699,"MS 462 Motosserra,40cm/16"",36RS",72.2,4.4,6,40 R,Rapid Micro,3/8,1.6,0.72,0.34,6
+,1142-200-0262,4769,"MS 462 Motosserra,50cm/20"",36RS",,,,50 R,Rapid Micro,,,,,
+,1142-200-0263,4849,"MS 462 Motosserra,63cm/25"",36RS",,,,63 R,Rapid Micro,,,,,
+MS 661,,,,,,,,,,,,,
+,Código Material,Preço Real,Descrição,Cilindrada [cm³],Pot.,,Sabre,Corrente,,,Capacidade do tanque de combustível (L),Capacidade do tanque de óleo (L),"Peso 
+[kg]"
+,,,,,kW,CV,,Modelo,Passo,Espessura (mm),,,
+,1144-200-0485,5099,"MS 661 Motosserra,50cm/20"",36RS",91.1,5.4,7.3,50 D,Rapid Micro,3/8,1.6,0.85,0.4,7.4
+,1144-200-0486,5169,"MS 661 Motosserra,63cm/25"",36RS",,,,63 D,,,,,,
+,1144-200-0487,5319,"MS 661 Motosserra,75cm/30"",36RS",,,,75 D,,,,,,
+MOTOSSERRAS ELÉTRICAS,,,,,,,,,,,,,
+, ,,,,,,,,,,,,
+MSE 141 C-Q,,,,,,,,,,,,,
+,Código Material,Preço Real,Descrição,Voltagem,Pot.                            [kW],,Sabre,Corrente,,,Capacidade do tanque de combustível (L),Capacidade do tanque de óleo (L),"Peso 
+[kg]"
+,,,,,,,,Modelo,Passo,Espessura (mm),,,
+,1208-200-0308,1319,"MSE 141 C-Q 127V Serra elétr.,30cm/12""",127V,1.4,,30 R,Picco Micro Mini,3/8,1.1,-,0.215,4
+,1208-200-0309,1319,"MSE 141 C-Q 220V Serra elétr.,30cm/12""",220V,,,30 R,Picco Micro Mini,,,,,
+MSE 170 C-BQ,,,,,,,,,,,,,
+,Código Material,Preço Real,Descrição,Voltagem,Pot.                            [kW],,Sabre,Corrente,,,Capacidade do tanque de combustível (L),Capacidade do tanque de óleo (L),"Peso 
+[kg]"
+,,,,,,,,Modelo,Passo,Espessura (mm),,,
+,1209-200-0173,2199,"MSE 170 C-BQ 127V Serra elétr., 30cm/12”",127V,1.7,,30 R,Picco Micro,3/8,1.3,-,0.2,4.3
+,1209-200-0174,2199,"MSE 170 C-BQ 220V Serra elétr., 30cm/12”",220V,1.7,,30 R,Picco Micro,3/8,,-,0.2,4.3
