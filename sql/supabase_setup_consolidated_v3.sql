@@ -588,18 +588,23 @@ ALTER TABLE public.attendant_prompts ENABLE ROW LEVEL SECURITY;
 ALTER TABLE public.conversation_logs ENABLE ROW LEVEL SECURITY;
 
 -- Políticas restritivas (negar acesso direto)
+DROP POLICY IF EXISTS "Deny direct access to docs" ON oficina.docs;
 CREATE POLICY "Deny direct access to docs" ON oficina.docs
     FOR ALL USING (false);
 
+DROP POLICY IF EXISTS "Deny direct access to doc_chunks" ON oficina.doc_chunks;
 CREATE POLICY "Deny direct access to doc_chunks" ON oficina.doc_chunks
     FOR ALL USING (false);
 
+DROP POLICY IF EXISTS "Deny direct access to doc_facts" ON oficina.doc_facts;
 CREATE POLICY "Deny direct access to doc_facts" ON oficina.doc_facts
     FOR ALL USING (false);
 
+DROP POLICY IF EXISTS "Deny direct access to attendant_prompts" ON public.attendant_prompts;
 CREATE POLICY "Deny direct access to attendant_prompts" ON public.attendant_prompts
     FOR ALL USING (false);
 
+DROP POLICY IF EXISTS "Deny direct access to conversation_logs" ON public.conversation_logs;
 CREATE POLICY "Deny direct access to conversation_logs" ON public.conversation_logs
     FOR ALL USING (false);
 

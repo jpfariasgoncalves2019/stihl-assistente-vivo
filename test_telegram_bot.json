@@ -1,0 +1,21 @@
+{
+  "update_id": 123456789,
+  "message": {
+    "message_id": 1,
+    "from": {
+      "id": 987654321,
+      "is_bot": false,
+      "first_name": "João",
+      "username": "joao_teste",
+      "language_code": "pt-br"
+    },
+    "chat": {
+      "id": 987654321,
+      "first_name": "João",
+      "username": "joao_teste",
+      "type": "private"
+    },
+    "date": 1694876400,
+    "text": "Qual o valor do carburador da FS55?"
+  }
+}
