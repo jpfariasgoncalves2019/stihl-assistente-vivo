@@ -108,6 +108,26 @@ export type Database = {
       [_ in never]: never
     }
     Functions: {
+      armor: {
+        Args: { "": string }
+        Returns: string
+      }
+      dearmor: {
+        Args: { "": string }
+        Returns: string
+      }
+      gen_random_bytes: {
+        Args: { "": number }
+        Returns: string
+      }
+      gen_random_uuid: {
+        Args: Record<PropertyKey, never>
+        Returns: string
+      }
+      gen_salt: {
+        Args: { "": string }
+        Returns: string
+      }
       gtrgm_compress: {
         Args: { "": unknown }
         Returns: unknown
@@ -127,6 +147,14 @@ export type Database = {
       gtrgm_out: {
         Args: { "": unknown }
         Returns: unknown
+      }
+      pgp_armor_headers: {
+        Args: { "": string }
+        Returns: Record<string, unknown>[]
+      }
+      pgp_key_id: {
+        Args: { "": string }
+        Returns: string
       }
       search_docs_secure: {
         Args: { model_q?: string; part_q?: string; top_k?: number }
