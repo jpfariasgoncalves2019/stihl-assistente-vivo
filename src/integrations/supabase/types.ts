@@ -101,6 +101,84 @@ export type Database = {
         }
         Relationships: []
       }
+      doc_chunks: {
+        Row: {
+          chunk_index: number
+          content: string
+          created_at: string | null
+          doc_id: string
+          embedding: string | null
+          id: string
+          page_number: number
+          token_count: number | null
+        }
+        Insert: {
+          chunk_index: number
+          content: string
+          created_at?: string | null
+          doc_id: string
+          embedding?: string | null
+          id?: string
+          page_number: number
+          token_count?: number | null
+        }
+        Update: {
+          chunk_index?: number
+          content?: string
+          created_at?: string | null
+          doc_id?: string
+          embedding?: string | null
+          id?: string
+          page_number?: number
+          token_count?: number | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "doc_chunks_doc_id_fkey"
+            columns: ["doc_id"]
+            isOneToOne: false
+            referencedRelation: "doc_public_view"
+            referencedColumns: ["doc_id"]
+          },
+          {
+            foreignKeyName: "doc_chunks_doc_id_fkey"
+            columns: ["doc_id"]
+            isOneToOne: false
+            referencedRelation: "docs"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      docs: {
+        Row: {
+          checksum: string
+          created_at: string | null
+          filename: string
+          id: string
+          model_code: string | null
+          page_count: number | null
+          source_path: string
+        }
+        Insert: {
+          checksum: string
+          created_at?: string | null
+          filename: string
+          id?: string
+          model_code?: string | null
+          page_count?: number | null
+          source_path: string
+        }
+        Update: {
+          checksum?: string
+          created_at?: string | null
+          filename?: string
+          id?: string
+          model_code?: string | null
+          page_count?: number | null
+          source_path?: string
+        }
+        Relationships: []
+      }
       equipment_models: {
         Row: {
           created_at: string | null
@@ -245,7 +323,27 @@ export type Database = {
       }
     }
     Views: {
-      [_ in never]: never
+      doc_public_view: {
+        Row: {
+          created_at: string | null
+          doc_id: string | null
+          model_code: string | null
+          page_count: number | null
+        }
+        Insert: {
+          created_at?: string | null
+          doc_id?: string | null
+          model_code?: string | null
+          page_count?: number | null
+        }
+        Update: {
+          created_at?: string | null
+          doc_id?: string | null
+          model_code?: string | null
+          page_count?: number | null
+        }
+        Relationships: []
+      }
     }
     Functions: {
       armor: {
@@ -287,6 +385,15 @@ export type Database = {
       gtrgm_out: {
         Args: { "": unknown }
         Returns: unknown
+      }
+      match_doc_chunks: {
+        Args: { match_count?: number; query_embedding: string }
+        Returns: {
+          chunk_index: number
+          doc_id: string
+          page_number: number
+          similarity: number
+        }[]
       }
       pgp_armor_headers: {
         Args: { "": string }
