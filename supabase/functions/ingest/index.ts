@@ -3,7 +3,7 @@
 import "jsr:@supabase/functions-js/edge-runtime.d.ts";
 import { createClient } from "https://esm.sh/@supabase/supabase-js@2";
 import OpenAI from "npm:openai";
-import { readPdfText } from "https://deno.land/x/pdf/mod.ts";
+import pdfParse from "npm:pdf-parse";
 
 const supabaseUrl = Deno.env.get("SUPABASE_URL")!;
 const supabaseKey = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!;
@@ -48,9 +48,21 @@ Deno.serve(async (req) => {
       const res = await fetch(signed.signedUrl);
       const buf = await res.arrayBuffer();
       const bytes = new Uint8Array(buf);
-      const text = await readPdfText(bytes);
+      
+      // Parse PDF text using pdf-parse
+      const pdfData = await pdfParse(bytes);
+      const text = pdfData.text;
+      
+      // Split text into pages (pdf-parse doesn't provide page-level separation)
+      // We'll simulate pages by splitting text into chunks
+      const pageSize = 2000; // characters per "page"
+      const pages: string[] = [];
+      for (let i = 0; i < text.length; i += pageSize) {
+        const pageText = text.slice(i, i + pageSize);
+        if (pageText.trim()) pages.push(pageText);
+      }
+      
       const checksum = await crypto.subtle.digest("SHA-256", bytes).then((h)=>Array.from(new Uint8Array(h)).map(b=>b.toString(16).padStart(2,"0")).join(""));
-      const pages = text.pages;
 
       // Upsert doc
       const { data: docRow, error: upErr } = await sb.from("docs").upsert({
