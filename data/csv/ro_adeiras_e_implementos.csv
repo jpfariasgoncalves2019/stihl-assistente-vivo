@@ -1,0 +1,215 @@
+﻿col,col,código_material,preço_real,qtde_min,descrição,cilindrada_cm³,pot,col,peso,conjunto_de_corte
+,,,,,,,kW,CV,,
+,,4140-200-0598,1149,2,"FS 38 Roçadeira,AutoCut C6-2",27.2,0.65,0.9,4.1,AutoCut C 6-2
+FS 55 R,,,,,,,,,,
+,,"Código
+Material","Preço
+Real","Qtde.
+Min.",Descrição,"Cilindrada
+[cm³]",Pot.,,Peso,Conjunto de corte
+,,,,,,,kW,CV,,
+,,4140-200-0601,1359.01,2,"FS 55 R Roçadeira,GC 230-2",27.2,0.75,1,4.4,2 facas 230mm
+,,4140-200-0602,1459,2,"FS 55 R Roçadeira,AutoCut C 26-2",,,,,AutoCut C 26-2
+FS 55,,,,,,,,,,
+,,"Código
+Material","Preço
+Real","Qtde.
+Min.",Descrição,"Cilindrada
+[cm³]",Pot.,,Peso,Conjunto de corte
+,,,,,,,kW,CV,,
+,,4140-200-0599,1498.99,2,"FS 55 Roçadeira,GC 230-2",27.2,0.75,1,4.8,2 facas 230mm
+,,4140-200-0600,1568.99,2,"FS 55 Roçadeira,AutoCut C 26-2",,,,,AutoCut C 26-2
+FS 80,,,,,,,,,,
+,,"Código
+Material","Preço
+Real","Qtde.
+Min.",Descrição,"Cilindrada
+[cm³]",Pot.,,Peso,Conjunto de corte
+,,,,,,,kW,CV,,
+,,4137-200-0318,1999,1,"FS 80 Roçadeira,DM 250-3",25.4,0.95,1.3,5,3 facas 250mm
+,,4137-200-0328,1979,1,"FS 80 Roçadeira,GSB 230-2",25.4,0.95,1.3,5.2,2 facas 230mm
+,,4137-200-0394,2029,1,"FS 80 Roçadeira,TrimCut 32-2",25.4,0.95,1.3,5.2,TrimCut 32-2
+FS 85,,,,,,,,,,
+,,"Código
+Material","Preço
+Real","Qtde.
+Min.",Descrição,"Cilindrada
+[cm³]",Pot.,,Peso,Conjunto de corte
+,,,,,,,kW,CV,,
+,,4137-200-0320,2099,1,"FS 85 Roçadeira,DM 250-3",25.4,0.95,1.3,5.2,3 facas 250mm
+,,4137-200-0321,2069,1,"FS 85 Roçadeira,GSB 230-2",25.4,0.95,1.3,5.2,2 facas 230mm
+,,4137-200-0395,2139,1,"FS 85 Roçadeira,TrimCut 32-2",25.4,0.95,1.3,5.2,TrimCut 32-2
+FS 120,,,,,,,,,,
+,,"Código
+Material","Preço
+Real","Qtde.
+Min.",Descrição,"Cilindrada
+[cm³]",Pot.,,Peso,Conjunto de corte
+,,,,,,,kW,CV,,
+,,4134-200-0396,1999,2,"FS 120 Roçadeira,DM 250-3",30.8,1.3,1.8,6.3,3 facas 250mm
+,,4134-200-0397,1989,2,"FS 120 Roçadeira,GSB 230-2",30.8,1.3,1.8,6.3,2 facas 230mm
+,,4134-200-0458,2019,2,"FS 120 Roçadeira,TrimCut 32-2",30.8,1.3,1.8,6.3,TrimCut 32-2
+FS 131,,,,,,,,,,
+,,"Código
+Material","Preço
+Real","Qtde.
+Min.",Descrição,"Cilindrada
+[cm³]",Pot.,,Peso,Conjunto de corte
+,,,,,,,kW,CV,,
+,,4180-200-0647,3199,2,"FS 131 Roçadeira,DM 250-3",36.3,1.4,1.9,5.8,3 facas 250mm
+FS 161,,,,,,,,,,
+,,"Código
+Material","Preço
+Real","Qtde.
+Min.",Descrição,"Cilindrada
+[cm³]",Pot.,,Peso,Conjunto de corte
+,,,,,,,kW,CV,,
+,,4147-200-0503,2999,1,FS 161-L Roçadeira Lâmina 2 facas especi,37.7,1.5,2.039,7.5,2 facas 305mm - Blindada
+,,4147-200-0502,2989,1,FS 161-L Roçadeira Lâmina 3 facas,,,,,3 facas 300mm
+,,4147-200-0501,2969,1,FS 161-L Roçadeira TrimCut C 42-2,,,,,TrimCut 42-2
+FS 221,,,,,,,,,,
+,,"Código
+Material","Preço
+Real","Qtde.
+Min.",Descrição,"Cilindrada
+[cm³]",Pot.,,Peso,Conjunto de corte
+,,,,,,,kW,CV,,
+,,4147-200-0506,3499,1,FS 221-L Roçadeira Lâmina 3 facas,37.7,1.7,2.31,7.7,3 facas 300mm
+,,4147-200-0504,3529,1,FS 221-L Roçadeira Lâmina 2 facas especi,,,,,2 facas 305mm - Blindada
+,,4147-200-0505,3439,1,FS 221-L Roçadeira TrimCut C 42-2,,,,,TrimCut 42-2
+FS 291,,,,,,,,,,
+,,"Código
+Material","Preço
+Real","Qtde.
+Min.",Descrição,"Cilindrada
+[cm³]",Pot.,,Peso,Conjunto de corte
+,,,,,,,kW,CV,,
+,,4147-200-0508,3999,1,FS 291-L Roçadeira Lâmina 3 facas,41.6,2,2.68,8,3 facas 300mm
+,,4147-200-0507,4039,1,FS 291-L Roçadeira Lâmina 2 facas especial,,,,,2 facas 305mm - Blindada
+,,4147-200-0510,3949,1,FS 291-L Roçadeira TrimCut C 42-2,,,,,TrimCut 42-2
+,,4147-200-0509,4049,1,FS 291-L Roçadeira Serra circular 225-24,,,,,Serra 225mm - Especial
+FS 351,,,,,,,,,,
+,,"Código
+Material","Preço
+Real","Qtde.
+Min.",Descrição,"Cilindrada
+[cm³]",Pot.,,Peso,Conjunto de corte
+,,,,,,,kW,CV,,
+,,4147-200-0512,3899,1,FS 351-L Roçadeira Lâmina 3 facas,37.7,1.7,2.31,8.8,3 Facas 300mm
+,,4147-200-0511,3939,1,FS 351-L Roçadeira Lâmina 2 facas especial,,,,,2 Facas de aço 305-2 Especial
+,,4147-200-0513,3859,1,FS 351-L Roçadeira TrimCut C 42-2,,,,,TrimCut 42-2
+FS 460,,,,,,,,,,
+,,"Código
+Material","Preço
+Real","Qtde.
+Min.",Descrição,"Cilindrada
+[cm³]",Pot.,,Peso,Conjunto de corte
+,,,,,,,kW,CV,,
+,,4147-200-0516,4399,1,FS 460-L Roçadeira Lâmina 3 facas,45.6,2.2,2.99,8.8,3 Facas 300mm
+,,4147-200-0515,4439,1,FS 460-L Roçadeira Lâmina 2 facas especial,,,,,2 Facas de aço 305-2 Especial
+,,4147-200-0514,4349,1,FS 460-L Roçadeira TrimCut C 42-2,,,,,TrimCut 42-2
+,,4147-200-0517,4449,1,FS 460-L Roçadeira Serra circular 225-24,,,,,"Serra circular 225-24, Especial"
+ROÇADEIRA COSTAL,,,,,,,,,,
+FR 410,,,,,,,,,,
+,,"Código
+Material","Preço
+Real","Qtde.
+Min.",Descrição,"Cilindrada
+[cm³]",Pot.,,Peso,Conjunto de corte
+,,,,,,,kW,CV,,
+,,4147-200-0523,4099,1,FR 410 Roçadeira Lâmina 3 facas Ø 250 mm,41.6,2,2.7,10.6,3 FACAS 250mm
+,,4147-200-0522,4039,1,FR 410 Roçadeira Lâmina 260-2,,,,,2 FACAS 260mm
+,,4147-200-0521,3979,1,FR 410 RoçadeiraTrimCut C 32-2,,,,,TrimCut 32-2
+ROÇADEIRAS ELÉTRICAS,,,,,,,,,,
+FSE 41,,,,,,,,,,
+,,Código Material,Preço Real,Qtde. Min.,Descrição,"Cilindrada
+[cm³]",Pot.,,Peso,Conjunto de corte
+,,,,,,,kW,CV,,
+,,4815-011-4111,569,1,"FSE 41 Roçadeira eléctrica, 127V",-,0.4,-,2.6,"Carretel de nylon 1,4 mm"
+,,4815-011-4112,569,1,"FSE 41 Roçadeira eléctrica, 220V",,,,,"Carretel de nylon 1,4 mm"
+FSE 60,,,,,,,,,,
+,,Código Material,Preço Real,Qtde. Min.,Descrição,"Cilindrada
+[cm³]",Pot.,,Peso,Conjunto de corte
+,,,,,,,kW,CV,,
+,,4809-011-4103,969,2,"FSE 60 Roçadeira eléctrica, 127V",-,0.6,-,4,AutoCut 6-2
+,,4809-011-4121,969,2,"FSE 60 Roçadeira eléctrica, 220V",,0.6,-,3.9,AutoCut 6-2
+FERRAMENTA MULTIFUNCIONAL,,,,,,,,,,
+KA 85 R,,,,,,,,,,
+,,Código Material,Preço Real,Qtde. Min.,Descrição,"Cilindrada
+[cm³]",Pot.,,Peso,Conjunto de corte
+,,,,,,,kW,CV,,
+,1,4137-200-0323,2099,1,KA 85 R Roçadeira - Lâmina 3 Facas 250mm,25.4,0.95,1.3,6.726,3 FACAS 250mm
+,2,4137-200-0324,2069,1,KA 85 R Roçadeira - Lâmina 2 Facas 230mm,,,,6.596,2 FACAS 230mm
+,3,4137-200-0396,2119,1,KA 85 R Roçadeira - Trimcut 32-2,,,,6.841,TrimCut 32-2
+,4,4137-200-0341,2969,1,KA 85 R BF - Cultivador de Solo,,,,12.124,CULTIVADOR DE SOLO
+,5,4137-200-0342,3089,1,KA 85 R HL 145° - Podador Especial,,,,7.185,HL PODADOR ESPECIAL
+,7,4137-200-0399,2819,1,"KA 85 R HT Motopoda 30cm/12"",61PMM3,
+passo da corrente: 3/8""",,,,9.765,"HT MOTOPODA - 30cm/12"",61PM3"
+,8,4137-200-0346,3159,1,KA 85 R SP WR 9 - Derriçador de Café,,,,5.101,SP20 WR 9 DERRIÇADOR CAFÉ
+,9,4137-200-0347,3139,1,KA 85 R SP WR 6 - Derriçador de Café,,,,5.101,SP20 WR 6 DERRIÇADOR CAFÉ
+,10,4137-200-0348,4169,1,KA 85 R SP – Colhedor de Oliva,,,,6.662,SP COLHEDOR DE OLIVA
+,11,4137-200-0316,2859,1,KA 85 R FCS - Aparador de Cantos,,,,8.281,IMPLEMENTO APARARADOR DE CANTOS
+KA 120 R,,,,,,,,,,
+,,Código Material,Preço Real,Qtde. Min.,Descrição,Cilindrada [cm³],Pot.,,Peso,Conjunto de corte
+,,,,,,,kW,CV,,
+,1,4134-200-0393,2239,2,KA 120 R Roçadeira - Lâmina 3 Facas 250m,30.8,1.3,1.8,7.426,3 FACAS 250mm
+,2,4134-200-0394,2239,2,KA 120 R Roçadeira - Lâmina 2 Facas 230m,,,,7.296,2 FACAS 230mm
+,3,4134-200-0462,2219,2,KA 120 R Roçadeira - Trimcut 32-2,,,,7.541,TrimCut 32-2
+,4,4134-200-0367,3169,2,KA 120 R BF - Cultivador de Solo,,,,12.824,CULTIVADOR DE SOLO
+,5,4134-200-0374,3249,2,KA 120 R HL 145° - Podador Especial,,,,7.885,HL PODADOR ESPECIAL
+,7,4134-200-0464,2969,2,"KA 120 R HT Motopoda 30cm/12"",61PMM3, 
+passo da corrente: 3/8""",,,,10.465,"HT-KA MOTOPODA - 30cm/12"", 61PMMC3 "
+,8,4134-200-0376,3299,2,KA 120 R SP WR 9 - Derriçador de Café,,,,5.801,SP20 WR 9 DERRIÇADOR CAFÉ
+,9,4134-200-0377,3279,2,KA 120 R SP WR 6 - Derriçador de Café,,,,5.801,SP20 WR 6 DERRIÇADOR  CAFÉ
+,10,4134-200-0371,4279,2,KA 120 R SP – Colhedor de Oliva,,,,7.362,SP COLHEDOR DE OLIVA
+,11,4134-200-0375,3069,2,KA 120 R FCS – Aparador de cantos,,,,8.981,IMPLEMENTO APARARADOR DE CANTOS
+Implementos KA,,,,,,,,,,
+,,Código Material,Preço Real,Qtde. Min.,Descrição,Comentários,,,Peso,Modelo
+,1,4243-740-5101,1429.01,1,HL 145° Podador especial,,,,2.084,KA85/KA120
+,2,4601-710-1504,1279,1,BF Implemento Cultivador do solo,,,,3.924,"KA85R,FS85/120/250/FR350"
+,3,4180-740-5100,1179,1,FCS Implemento Aparador de cantos,,,,3.18,KA85/KA120
+,4,4137-740-5100,269,1,FS Implemento Roçadeira,,,,1.275,KA85R/FS55/80/85/120/130FR220
+,5,4182-200-0215,1498.99,1,"HT Implemento Moto-poda,30cm/12"",71PM3",,,,1.711,"KA85R/120,HT75/133"
+,6,4182-200-0217,1139,1,"HT Implemento Moto-poda,30cm/12"",61PMM3",,,,1.711,"KA85R/120,HT131"
+,7,4249-740-5100,2619,1,SP 10 Derriçador,,,,1.561,KA85/KA120
+,8,4260-740-5100,1439,1,SP 20 Derriçador,,,,1.6,"KA85R,KA120"
+,,4260-740-7200,131.18,1,Garra WR 6,,,,0.145,SP 20
+,,4260-740-7201,130.17,1,Garra WR 6-2,,,,0.13,SP 20
+,,4260-740-7202,162.71,1,Garra WR 9,,,,0.19,SP 20
+,,4260-710-7100,372.2,1,"Tubo do eixo Ø 25,4 x 1498 mm",,,,,"KA 85, KA 120"
+,,4260-710-7101,682.84,1,"Tubo do eixo Ø 25,4 x 1748 mm",,,,,"KA 85, KA 120"
+,,4260-710-7102,217.64,1,"Tubo do eixo Ø 25,4 x 1498 mm",,,,,"KA 85, KA 120"
+,,4260-710-7103,238.37,1,"Tubo do eixo Ø 25,4 x 1748 mm",,,,,"KA 85, KA 120"
+,,4137-711-3202,98.82,1,Eixo de acionamento 1538 mm,,,,0.27,"FS 80,KA 85, KA120"
+,,4260-711-3200,108.23,1,Eixo de acionamento 1785 mm,,,,,"KA 85, KA 120"
+Implementos KM / KMA,,,,,,,,,,
+,1,Código Material,Preço Real,Qtde. Min.,Descrição,Comentários,,,Peso,Modelo
+,2,4601-740-5000,1719,1,BF-KM Cultivador do solo,,,,4.142,KM55/85 / KMA135R
+,3,4243-740-5003,1729,1,HL-KM 145° Podador especial,,,,2.742,KM55/85 / KMA135R
+,4,4606-740-5000,739,1,BG-KM Soprador axial,,,,1.736,KM55/85 / KMA135R
+,5,4182-200-0212,1269,1,"Implem. KM - HT Motopoda,30cm/12"",71PM3",,,,2.384,HT-KM55/85R / KMA135R
+,6,4182-200-0208,1249,1,"Implem. KM - HT Motopoda,30cm/12"",61PMM3",,,,2.384,HT-KM55/85R /  KMA135R
+,7,4180-740-5002,759,1,FCB-KM Aparador de cantos,,,,2.86,FCB-KM55/85 / KMA135R
+,,4180-710-7141,489,1,FS-KM Roçadeira,"Não acompanha Jogo de proteção, Kit de peças para fixação da lâmina e arruela 4137-710-3800",,,1.045,FS-KM55/85 / KMA135R
+,,4140-710-7131,434.04,1,Tubo do eixo 1 m,Prolongador da haste,,,,HT-KM85R / KMA135R
+Garras SP 20,,,,,,,,,,
+,,Garra WR 6,,,,,,,,
+,,Código Material,Preço Real,"Qtde. 
+Min.",Comentários,,,,Peso,
+,,4260-740-7200,131.18,1," - Garra com seis dedos alinhados
+ - É o modelo universal. Indicada para plantas com ramos de tamanho e espaçamento normais.",,,,0.145,
+,,,879,2,,,,,,
+,,Garra WR 6-2,,,,,,,,
+,,Código Material,Preço Real,Qtde. Min.,Comentários,,,,Peso,
+,,4260-740-7201,130.17,1," - Garra com seis dedos desalinhados
+ - Ideal para as situações onde as plantas são  densas,  próximas e  com galhos entrelaçados que dificultam o acesso aos frutos.",,,,0.13,
+,,,879,2,,,,,,
+,,Garra WR 9,,,,,,,,
+,,Código Material,Preço Real,Qtde. Min.,Comentários,,,,Peso,
+,,4260-740-7202,162.71,1," - Garra com nove dedos 
+ - Altíssima produtividade para ramos longos, adensados e com muitos frutos por planta.",,,,0.19,
+,,,899,2,,,,,,
+"CONDIÇÕES DE VENDA :  PREÇO POSTO EM SÃO LEOPOLDO-RS, COM IPI INCLUSO",,,,,,,,,,
+A INFORMAÇÃO DA COLUNA “T” REFERE-SE A SITUAÇÃO TRIBUTÁRIA VÁLIDA SOMENTE PARA O ESTADO DO RIO GRANDE DO SUL,,,,,,,,,,
+OBSERVAÇÕES,,,,,,,,,,
+1. NOS PESOS DAS ROÇADEIRAS E DO SISTEMA MOTORIZADO MULTIFUNCIONAL NÃO ESTÃO INCLUSOS OS PESOS DAS FERRAMENTAS DE CORTE E/OU FERRAMENTAS DE ANEXO.,,,,,,,,,,
