@@ -321,6 +321,213 @@ export type Database = {
         }
         Relationships: []
       }
+      stg_calculadora: {
+        Row: {
+          descricao: string | null
+          descricao_1: string | null
+          observacao: string | null
+          preco: string | null
+          produtos: string | null
+          referencia: string | null
+        }
+        Insert: {
+          descricao?: string | null
+          descricao_1?: string | null
+          observacao?: string | null
+          preco?: string | null
+          produtos?: string | null
+          referencia?: string | null
+        }
+        Update: {
+          descricao?: string | null
+          descricao_1?: string | null
+          observacao?: string | null
+          preco?: string | null
+          produtos?: string | null
+          referencia?: string | null
+        }
+        Relationships: []
+      }
+      stg_cod_alterados: {
+        Row: {
+          codigo_antigo: string | null
+          codigo_novo: string | null
+          col: string | null
+          data_alteracao: string | null
+          descricao: string | null
+        }
+        Insert: {
+          codigo_antigo?: string | null
+          codigo_novo?: string | null
+          col?: string | null
+          data_alteracao?: string | null
+          descricao?: string | null
+        }
+        Update: {
+          codigo_antigo?: string | null
+          codigo_novo?: string | null
+          col?: string | null
+          data_alteracao?: string | null
+          descricao?: string | null
+        }
+        Relationships: []
+      }
+      stg_conjunto_de_corte_ro_adeiras: {
+        Row: {
+          cilindrada_cm3: string | null
+          codigo_material: string | null
+          conjunto_de_corte: string | null
+          descricao: string | null
+          peso: string | null
+          pot: string | null
+          preco_real: number | null
+        }
+        Insert: {
+          cilindrada_cm3?: string | null
+          codigo_material?: string | null
+          conjunto_de_corte?: string | null
+          descricao?: string | null
+          peso?: string | null
+          pot?: string | null
+          preco_real?: number | null
+        }
+        Update: {
+          cilindrada_cm3?: string | null
+          codigo_material?: string | null
+          conjunto_de_corte?: string | null
+          descricao?: string | null
+          peso?: string | null
+          pot?: string | null
+          preco_real?: number | null
+        }
+        Relationships: []
+      }
+      stg_motossera: {
+        Row: {
+          codigo_material: string | null
+          descricao: string | null
+          modelos_compativeis: string | null
+          preco_real: number | null
+        }
+        Insert: {
+          codigo_material?: string | null
+          descricao?: string | null
+          modelos_compativeis?: string | null
+          preco_real?: number | null
+        }
+        Update: {
+          codigo_material?: string | null
+          descricao?: string | null
+          modelos_compativeis?: string | null
+          preco_real?: number | null
+        }
+        Relationships: []
+      }
+      stg_outras_maquinas: {
+        Row: {
+          codigo_material: string | null
+          descricao: string | null
+          modelos_compativeis: string | null
+          preco_real: number | null
+        }
+        Insert: {
+          codigo_material?: string | null
+          descricao?: string | null
+          modelos_compativeis?: string | null
+          preco_real?: number | null
+        }
+        Update: {
+          codigo_material?: string | null
+          descricao?: string | null
+          modelos_compativeis?: string | null
+          preco_real?: number | null
+        }
+        Relationships: []
+      }
+      stg_pecas: {
+        Row: {
+          codigo_material: string | null
+          descricao: string | null
+          modelos_compativeis: string | null
+          preco_real: number | null
+        }
+        Insert: {
+          codigo_material?: string | null
+          descricao?: string | null
+          modelos_compativeis?: string | null
+          preco_real?: number | null
+        }
+        Update: {
+          codigo_material?: string | null
+          descricao?: string | null
+          modelos_compativeis?: string | null
+          preco_real?: number | null
+        }
+        Relationships: []
+      }
+      stg_produtos_a_bateria: {
+        Row: {
+          codigo_material: string | null
+          descricao: string | null
+          modelos_compativeis: string | null
+          preco_real: number | null
+        }
+        Insert: {
+          codigo_material?: string | null
+          descricao?: string | null
+          modelos_compativeis?: string | null
+          preco_real?: number | null
+        }
+        Update: {
+          codigo_material?: string | null
+          descricao?: string | null
+          modelos_compativeis?: string | null
+          preco_real?: number | null
+        }
+        Relationships: []
+      }
+      stg_ro_adeiras_e_implementos: {
+        Row: {
+          codigo_material: string | null
+          descricao: string | null
+          modelos_compativeis: string | null
+          preco_real: number | null
+        }
+        Insert: {
+          codigo_material?: string | null
+          descricao?: string | null
+          modelos_compativeis?: string | null
+          preco_real?: number | null
+        }
+        Update: {
+          codigo_material?: string | null
+          descricao?: string | null
+          modelos_compativeis?: string | null
+          preco_real?: number | null
+        }
+        Relationships: []
+      }
+      stg_sabres_correntes_pinhoes_limas: {
+        Row: {
+          codigo_material: string | null
+          descricao: string | null
+          modelos_maquinas: string | null
+          preco_real: number | null
+        }
+        Insert: {
+          codigo_material?: string | null
+          descricao?: string | null
+          modelos_maquinas?: string | null
+          preco_real?: number | null
+        }
+        Update: {
+          codigo_material?: string | null
+          descricao?: string | null
+          modelos_maquinas?: string | null
+          preco_real?: number | null
+        }
+        Relationships: []
+      }
     }
     Views: {
       doc_public_view: {
@@ -395,12 +602,32 @@ export type Database = {
           similarity: number
         }[]
       }
+      normalize_text: {
+        Args: { t: string }
+        Returns: string
+      }
+      parts_for_model: {
+        Args: { limit_k?: number; mcode: string }
+        Returns: {
+          description: string
+          part_code: string
+          price: number
+        }[]
+      }
       pgp_armor_headers: {
         Args: { "": string }
         Returns: Record<string, unknown>[]
       }
       pgp_key_id: {
         Args: { "": string }
+        Returns: string
+      }
+      resolve_model: {
+        Args: { q: string }
+        Returns: string
+      }
+      resolve_part: {
+        Args: { q: string }
         Returns: string
       }
       search_docs_secure: {
@@ -415,13 +642,14 @@ export type Database = {
         }[]
       }
       search_parts: {
-        Args: { limit_n?: number; model_q?: string; part_q?: string }
+        Args:
+          | { limit_k?: number; q: string }
+          | { limit_n?: number; model_q?: string; part_q?: string }
         Returns: {
           description: string
-          model: string
+          matched: boolean
           part_code: string
-          price_brl: number
-          rank: number
+          price: number
         }[]
       }
       set_limit: {
@@ -436,6 +664,10 @@ export type Database = {
         Args: { "": string }
         Returns: string[]
       }
+      split_models: {
+        Args: { s: string }
+        Returns: string[]
+      }
       suggest_models: {
         Args: { limit_n?: number; q: string }
         Returns: {
@@ -443,6 +675,10 @@ export type Database = {
           model_code_std: string
           similarity_score: number
         }[]
+      }
+      tokenize: {
+        Args: { t: string }
+        Returns: string[]
       }
       unaccent: {
         Args: { "": string }
