@@ -553,6 +553,10 @@ export type Database = {
       }
     }
     Functions: {
+      apply_part_compat_staging: {
+        Args: Record<PropertyKey, never>
+        Returns: string
+      }
       armor: {
         Args: { "": string }
         Returns: string
