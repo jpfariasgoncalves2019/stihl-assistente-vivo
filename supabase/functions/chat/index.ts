@@ -127,10 +127,12 @@ async function loadActivePrompt(): Promise<string> {
 // Função para buscar no catálogo
 async function searchCatalog(modelQuery: string, partQuery: string): Promise<SearchResult[]> {
   try {
+    // Combinar modelo e parte em uma query simples
+    const query = `${partQuery} ${modelQuery}`.trim();
+    
     const { data, error } = await supabase.rpc('search_parts', {
-      model_q: modelQuery,
-      part_q: partQuery,
-      limit_n: 5
+      q: query,
+      limit_k: 5
     });
 
     if (error) {
@@ -138,7 +140,16 @@ async function searchCatalog(modelQuery: string, partQuery: string): Promise<Sea
       return [];
     }
 
-    return data || [];
+    // Transformar os dados para o formato esperado
+    const results: SearchResult[] = (data || []).map((item: any) => ({
+      part_code: item.part_code,
+      description: item.description,
+      price_brl: item.price,
+      model: modelQuery || 'Diversos',
+      rank: item.matched ? 1.0 : 0.5
+    }));
+
+    return results;
   } catch (error) {
     console.error('Erro ao buscar no catálogo:', error);
     return [];
