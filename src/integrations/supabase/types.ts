@@ -557,6 +557,10 @@ export type Database = {
         Args: Record<PropertyKey, never>
         Returns: string
       }
+      apply_sabres_correntes_staging: {
+        Args: Record<PropertyKey, never>
+        Returns: string
+      }
       armor: {
         Args: { "": string }
         Returns: string
